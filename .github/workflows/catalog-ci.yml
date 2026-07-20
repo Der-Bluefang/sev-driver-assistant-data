@@ -1,0 +1,24 @@
+name: Datenkatalog prüfen
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Manifest und PDF-Integrität
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Quellcode auschecken
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      - name: Katalog-Regressionen ausführen
+        run: python3 -m unittest tools/test_validate_catalog.py
+      - name: Freigegebenen Datenkatalog prüfen
+        run: python3 tools/validate_catalog.py

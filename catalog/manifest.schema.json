@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SEV Driver Assistant approved plan catalog",
+  "type": "object",
+  "required": ["schemaVersion", "catalogVersion", "generatedAt", "plans"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "catalogVersion": {"type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"},
+    "generatedAt": {"type": "string", "format": "date-time"},
+    "plans": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "stationCode", "stationName", "file", "sha256", "bytes",
+          "sourceUrl", "rightsBasis", "rightsReference", "rightsVerifiedAt"
+        ],
+        "properties": {
+          "stationCode": {"type": "string", "pattern": "^[A-Z0-9]{1,12}$"},
+          "stationName": {"type": "string", "minLength": 1},
+          "file": {"type": "string", "pattern": "^pdf/[A-Za-z0-9][A-Za-z0-9._-]*\\.pdf$"},
+          "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+          "bytes": {"type": "integer", "minimum": 5, "maximum": 5242880},
+          "sourceUrl": {"type": "string", "format": "uri"},
+          "rightsBasis": {"enum": ["written_permission", "open_license"]},
+          "rightsReference": {"type": "string", "minLength": 1},
+          "rightsVerifiedAt": {"type": "string", "format": "date-time"}
+        }
+      }
+    }
+  }
+}
