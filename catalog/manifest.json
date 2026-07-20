@@ -1,8 +1,184 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "1.0.0",
-  "generatedAt": "2026-07-20T04:01:43Z",
+  "catalogVersion": "1.1.0",
+  "generatedAt": "2026-07-20T04:45:48Z",
   "plans": [
+    {
+      "stationCode": "EABG",
+      "stationName": "Altenberge",
+      "file": "pdf/EABG.pdf",
+      "sha256": "9636a5d42989721aabc4c3db62d7985cf50cc8010c515ff4b758d9153ed07c31",
+      "bytes": 760172,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/87.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EABT",
+      "stationName": "Münster-Albachten",
+      "file": "pdf/EABT.pdf",
+      "sha256": "849b19b524ef53c4cc8b1ae0aa05621ad0e93e44d6c90d0c00732727ce278351",
+      "bytes": 433731,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/39.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EAHL",
+      "stationName": "Ahlen (Westf)",
+      "file": "pdf/EAHL.pdf",
+      "sha256": "9a3733f9aab61837da029106da03eb3c44950cc6d8348f6235fe569ade31e4dd",
+      "bytes": 1441190,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/23.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EAHS",
+      "stationName": "Ahaus",
+      "file": "pdf/EAHS.pdf",
+      "sha256": "0f320c591db32e534d9b13dc195041ac871ab65d174f2a0316c51496468326ff",
+      "bytes": 258835,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/22.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EAML",
+      "stationName": "Münster-Amelsbüren",
+      "file": "pdf/EAML.pdf",
+      "sha256": "5b7c8f8f25d38f5eaa4a5f118fb34bea280d8ec5882d731564e4400ec1be2660",
+      "bytes": 480349,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/135.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EAPH",
+      "stationName": "Nottuln-Appelhülsen",
+      "file": "pdf/EAPH.pdf",
+      "sha256": "36eaa01fdc05c884d1c5247407c4c82c4878c771c0ff5f8f62bc544abeeca19e",
+      "bytes": 688733,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/167.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EARB",
+      "stationName": "Arnsberg (Westf)",
+      "file": "pdf/EARB.pdf",
+      "sha256": "c9cef43398c2f13f73a5eca790717200b793bd6be6da85ca53205719815596e5",
+      "bytes": 867624,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/177.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EARE",
+      "stationName": "Ardey",
+      "file": "pdf/EARE.pdf",
+      "sha256": "1399237af49695163444812a63efca202d1c990c889ca43b7bea98faabbf70a3",
+      "bytes": 548279,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/169.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EASB",
+      "stationName": "Ascheberg (Westf)",
+      "file": "pdf/EASB.pdf",
+      "sha256": "de56e2fb410986382ae1701478ec4a9c2fd3b475d49712ac4b19ba38c5fc1fa5",
+      "bytes": 247441,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/192.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBB",
+      "stationName": "Billerbeck",
+      "file": "pdf/EBB.pdf",
+      "sha256": "de53d8f87396077e173bd31fc9a902ea352af5c7a141817ea20ca5f846585062",
+      "bytes": 303553,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/643.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBCK",
+      "stationName": "Hamm-Bockum-Hövel",
+      "file": "pdf/EBCK.pdf",
+      "sha256": "052e2514c6ebb0e265e518d4137a552d459e97e487144ac49e345c2832b916e6",
+      "bytes": 1020414,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/733.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBDA",
+      "stationName": "Bochum-Dahlhausen",
+      "file": "pdf/EBDA.pdf",
+      "sha256": "c76d38df886394c1ee1ec945e737950b1e91aa5fc97f73f6a4cd2f4ea8f120ee",
+      "bytes": 781096,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/727.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBEE",
+      "stationName": "Beelen",
+      "file": "pdf/EBEE.pdf",
+      "sha256": "169db91783a56926c5a776ce395de9b4ac0329f0a1144620495538f521527073",
+      "bytes": 838425,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/450.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBEO",
+      "stationName": "Bönen",
+      "file": "pdf/EBEO.pdf",
+      "sha256": "031f4edc267a8ddc116d8ce4d6912b400a43dbc5d9e1bed120c254420e7a9a4c",
+      "bytes": 472194,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/763.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBFT",
+      "stationName": "Steinfurt-Burgsteinfurt",
+      "file": "pdf/EBFT.pdf",
+      "sha256": "32d489a5a9d69f721d0976f66ad3c2c0094a15c243fe8df03ffe6091c3d1a8dd",
+      "bytes": 315454,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/997.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBGO",
+      "stationName": "Steinfurt-Borghorst",
+      "file": "pdf/EBGO.pdf",
+      "sha256": "00c61f7234f7d7b9ea23dfd71dca2e3510eeda2df937c2ffab8531017c7b20d5",
+      "bytes": 262760,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/781.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
     {
       "stationCode": "EBIL",
       "stationName": "Bielefeld Hbf",
@@ -13,6 +189,28 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "EBK",
+      "stationName": "Borken (Westf)",
+      "file": "pdf/EBK.pdf",
+      "sha256": "29f0bf1fd5a72ee6135eb0224312137efaf490e3d9b45e53dca24a9d457576fe",
+      "bytes": 483245,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/785.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBLA",
+      "stationName": "Bochum-Langendreer",
+      "file": "pdf/EBLA.pdf",
+      "sha256": "f2dba5a7ad4cd4d5bf1700008fe4918b25f737a5b0b3013ed7191f677d827ee4",
+      "bytes": 751393,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/730.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "EBO",
@@ -26,6 +224,94 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "EBOE",
+      "stationName": "Bochum-Ehrenfeld",
+      "file": "pdf/EBOE.pdf",
+      "sha256": "476ef9eeb469347db47f438d474b438d9018ad93d38d98bf3b2de458f730711a",
+      "bytes": 2389126,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/728.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBOH",
+      "stationName": "Bochum-Hamme",
+      "file": "pdf/EBOH.pdf",
+      "sha256": "93b26e7a82c0de2ae6b0129655692135083c3607410eb93369e7db8eddf88141",
+      "bytes": 333678,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/729.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBOK",
+      "stationName": "Bork (Westf)",
+      "file": "pdf/EBOK.pdf",
+      "sha256": "01b75784852cd8fc87b8fdd94de11ea7fcefcfa59bfd9137050c77b6028da40d",
+      "bytes": 454379,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/783.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBOR",
+      "stationName": "Borgeln",
+      "file": "pdf/EBOR.pdf",
+      "sha256": "97673b36162f4ce7bbd509ac9c84214544237e286feb16e140b886251b39dec0",
+      "bytes": 311879,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/779.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBOW",
+      "stationName": "Bochum West",
+      "file": "pdf/EBOW.pdf",
+      "sha256": "3b4b684f5ce249e0bb90d042dbd90dbc70ca1ec47b3dc97be4a2a34ad2324a40",
+      "bytes": 1586524,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/726.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBRI",
+      "stationName": "Bochum-Riemke",
+      "file": "pdf/EBRI.pdf",
+      "sha256": "74d4cdb4ec9694e95d195422980c642bdf2e721be7be49005efb4559f47a02cd",
+      "bytes": 263857,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/725.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBRO",
+      "stationName": "Ostbevern",
+      "file": "pdf/EBRO.pdf",
+      "sha256": "279132f868fe46d369578855c1a24ea7cb867ddf0bb656c45ee6083a7baf8ca0",
+      "bytes": 263893,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/890.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBSA",
+      "stationName": "Bad Sassendorf",
+      "file": "pdf/EBSA.pdf",
+      "sha256": "296505d64ec6176988587fd5b27af201534063788ca32446019961d40b14a017",
+      "bytes": 577092,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/334.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "EBTH",
       "stationName": "Bottrop Hbf",
       "file": "pdf/EBTH.pdf",
@@ -35,6 +321,28 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "EBUD",
+      "stationName": "Buldern",
+      "file": "pdf/EBUD.pdf",
+      "sha256": "80243b1c1d6ac9268ab87d637432aa72f164c5f067490b97ebd8c48d71c9ef83",
+      "bytes": 285918,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/963.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EBW",
+      "stationName": "Bochum-Langendreer West",
+      "file": "pdf/EBW.pdf",
+      "sha256": "52a409a66553263c98b8286a40beea2014e6ce89b3edabf14ed29ae1486d596e",
+      "bytes": 447396,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/731.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "ECA",
@@ -48,6 +356,171 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "ECAS",
+      "stationName": "Castrop-Rauxel Süd",
+      "file": "pdf/ECAS.pdf",
+      "sha256": "bbb745e66716049e6c343172bff860bd60fc10a946d29b0628450aed8323db1e",
+      "bytes": 293152,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1034.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "ECME",
+      "stationName": "Castrop-Rauxel-Merklinde",
+      "file": "pdf/ECME.pdf",
+      "sha256": "df078500bf55271068f2c1c965b9c527b99aac1fee08e3aaf6057c8a1315be6b",
+      "bytes": 767372,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1035.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "ECMF",
+      "stationName": "Coesfeld (Westf)",
+      "file": "pdf/ECMF.pdf",
+      "sha256": "797eb449a19b93035b6465d5597fa88fc565d800f87f107ba89c77413f2a7fa1",
+      "bytes": 760970,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1062.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "ECP",
+      "stationName": "Capelle (Westf)",
+      "file": "pdf/ECP.pdf",
+      "sha256": "6a1f4b43486ca1596c988d15aea0b6c50c6223c1fcc22c51ee1fdee6038e21de",
+      "bytes": 236629,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1028.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDAM",
+      "stationName": "Dortmund-Asseln Mitte",
+      "file": "pdf/EDAM.pdf",
+      "sha256": "3348a8c0bd87623102bff6b62ce6607e6ccace245a10677deee784e49c471bdd",
+      "bytes": 702777,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1287.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDAP",
+      "stationName": "Dortmund-Aplerbeck",
+      "file": "pdf/EDAP.pdf",
+      "sha256": "41aa5e8868cbd5519c105d07318db9a03d98d2c56577cdc85c91119abe1b129b",
+      "bytes": 313825,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1298.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDAU",
+      "stationName": "Dortmund-Aplerbeck Süd",
+      "file": "pdf/EDAU.pdf",
+      "sha256": "f39e85364d57fddd91115fd615e51189ac1a6f834e324807ffc65b3d713b1bbd",
+      "bytes": 1479714,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1299.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDBA",
+      "stationName": "Dortmund-Barop",
+      "file": "pdf/EDBA.pdf",
+      "sha256": "9c2a82a87ed80972cef37381a778e2265828faf5a714602612de0097805eab8a",
+      "bytes": 1295088,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1300.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDBH",
+      "stationName": "Dortmund-Bövinghausen",
+      "file": "pdf/EDBH.pdf",
+      "sha256": "245219d12b27aa1f5205d6f9b71d234cbdef8130ffe62904fd94894dfb010a97",
+      "bytes": 1064435,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1301.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDBK",
+      "stationName": "Dortmund-Brackel",
+      "file": "pdf/EDBK.pdf",
+      "sha256": "650bc9d2a3eeff938602c4f44a0d925079640239f3c73a010147264a1e10e320",
+      "bytes": 298838,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1302.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDD",
+      "stationName": "Dortmund-Derne",
+      "file": "pdf/EDD.pdf",
+      "sha256": "f0aa31984ecd8a24c50796d27536b1b9c17a7464b88a2a26c8e8c025fe374bb6",
+      "bytes": 786839,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1303.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDDP",
+      "stationName": "Dortmund-Dorstfeld",
+      "file": "pdf/EDDP.pdf",
+      "sha256": "aea7f8154a3a8e860bc6dc8dff17520c8c9b97cad672ba0035a8d09a75a85fba",
+      "bytes": 998873,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1304.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDDS",
+      "stationName": "Dortmund-Dorstfeld Süd",
+      "file": "pdf/EDDS.pdf",
+      "sha256": "123faf3657d6690c3952eac3640644ad3acb69d5b1dc5754f6aa70ddc8071526",
+      "bytes": 432300,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1305.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDED",
+      "stationName": "Dedinghausen",
+      "file": "pdf/EDED.pdf",
+      "sha256": "b2d9e03114a8a4a465f534b569f5019b1528d7fb8a726f7c30fd9f40b4babe87",
+      "bytes": 252997,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1146.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDEU",
+      "stationName": "Deuten",
+      "file": "pdf/EDEU.pdf",
+      "sha256": "5fb84909464e4ad232a55be6db5b83b7fe96c829cd1c572a283fac9e60e07318",
+      "bytes": 623229,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1187.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "EDG",
       "stationName": "Duisburg Hbf",
       "file": "pdf/EDG.pdf",
@@ -57,6 +530,17 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "EDGM",
+      "stationName": "Dortmund-Germania",
+      "file": "pdf/EDGM.pdf",
+      "sha256": "2163b22d5919e0eee861137917ecbda7a8e92dc1cb70f875f18af9e310468c69",
+      "bytes": 533146,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1288.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "EDGR",
@@ -81,6 +565,149 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "EDHU",
+      "stationName": "Dortmund-Huckarde Nord",
+      "file": "pdf/EDHU.pdf",
+      "sha256": "c4f4c5bcb9627ca046467c2a78f57bf969854612e0fd207fb02370f1b6e975be",
+      "bytes": 714632,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1308.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDK",
+      "stationName": "Dortmund-Kley",
+      "file": "pdf/EDK.pdf",
+      "sha256": "b5c57454d21265aa915e1ff16a517ab27d5613f2ee6b786405e528f181422382",
+      "bytes": 750664,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1311.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDKD",
+      "stationName": "Dortmund-Kirchderne",
+      "file": "pdf/EDKD.pdf",
+      "sha256": "6ece11934244cf3b50b7cbbfec4c74ce3c691fe330365ec218e336b748d3079e",
+      "bytes": 250477,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1309.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDKH",
+      "stationName": "Dortmund-Kirchhörde",
+      "file": "pdf/EDKH.pdf",
+      "sha256": "41ce535e05970419c2232616163f7c03b793639eb07bb8cbf717265cb8637ec8",
+      "bytes": 1070074,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1310.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDKK",
+      "stationName": "Dortmund Knappschafts krankenhaus",
+      "file": "pdf/EDKK.pdf",
+      "sha256": "bdefd0596f8f969952e3e115bfddf161e8cee269b2954b4112f48a6f83bf42ea",
+      "bytes": 2215281,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1290.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDKO",
+      "stationName": "Dortmund-Körne",
+      "file": "pdf/EDKO.pdf",
+      "sha256": "b06838a65fef8c73675783e931aba5a3bfc30b70d4c2d553d137d7422508e758",
+      "bytes": 383571,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1312.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDKR",
+      "stationName": "Dortmund-Kruckel",
+      "file": "pdf/EDKR.pdf",
+      "sha256": "3378e26740ed2410c30a003c08e1e2a4f7c87e1e4cffbbb39e619c904a8a6da2",
+      "bytes": 1605337,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1314.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDKU",
+      "stationName": "Dortmund-Kurl",
+      "file": "pdf/EDKU.pdf",
+      "sha256": "775cf119bbe6dfe271ca1dfe57f304c70ec34d65d7c34dd16a46777b388cfcf7",
+      "bytes": 284012,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1315.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDLH",
+      "stationName": "Dortmund-Löttringhausen",
+      "file": "pdf/EDLH.pdf",
+      "sha256": "8b5f0617ea15ea55283abe8f9b9ba3c0a3935721dda536cde91c74f6b8c91eeb",
+      "bytes": 381911,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1316.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDLN",
+      "stationName": "Dortmund-Lütgendortmund Nord",
+      "file": "pdf/EDLN.pdf",
+      "sha256": "bad14b4fa5e2c33140cb656a72d7690576d4ce6955bb1b6d0868c32f28c89f38",
+      "bytes": 714209,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1317.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDMB",
+      "stationName": "Dortmund Möllerbrücke",
+      "file": "pdf/EDMB.pdf",
+      "sha256": "4f4d55174619f1de33465f81c6495513e631b6b95e7f39f0631d88e751df02f9",
+      "bytes": 1278242,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1291.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDMR",
+      "stationName": "Dortmund-Marten",
+      "file": "pdf/EDMR.pdf",
+      "sha256": "25d5a52b1035a8fff33250835ff804ecce819320d21d71767dd02b81dbfa0546",
+      "bytes": 271493,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1318.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDMS",
+      "stationName": "Dortmund-Marten Süd",
+      "file": "pdf/EDMS.pdf",
+      "sha256": "a519dfa1e7d14511f6d9e007701df91213497e72c1eca5ba8ee12b91b4f7b3c4",
+      "bytes": 971910,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1319.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "EDO",
       "stationName": "Dortmund Hbf",
       "file": "pdf/EDO.pdf",
@@ -90,6 +717,72 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "EDOF",
+      "stationName": "Dortmund-Westerfilde",
+      "file": "pdf/EDOF.pdf",
+      "sha256": "9d4fa9361afcb1c7c06788883e7502b789c5d48265e94ee525c89219e6bf6f63",
+      "bytes": 518597,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1326.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDOH",
+      "stationName": "Dortmund-Huckarde",
+      "file": "pdf/EDOH.pdf",
+      "sha256": "5bd41ab51d0e420638ebbed4be418eab1653af198eddd4182ff2ff6e9edf2b4f",
+      "bytes": 2179964,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1307.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDOL",
+      "stationName": "Dortmund-Wischlingen",
+      "file": "pdf/EDOL.pdf",
+      "sha256": "8aa9d750cb65f2d60d307bdfebe3e8c0fb2a2a3c9f6a429ded4c7905325deeb1",
+      "bytes": 479719,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1329.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDOO",
+      "stationName": "Dortmund-Nette/Oestrich",
+      "file": "pdf/EDOO.pdf",
+      "sha256": "5c1d160656aa14e7d046a765f33475a8afc83b86de7efc9577d65e099ccf3da2",
+      "bytes": 954054,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1321.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDOP",
+      "stationName": "Dortmund-Oespel",
+      "file": "pdf/EDOP.pdf",
+      "sha256": "b0580873948825f2aac444045deb2f4f348aaa5f640a6f0bdada056814dc3312",
+      "bytes": 429994,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1322.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDRA",
+      "stationName": "Dortmund-Rahm",
+      "file": "pdf/EDRA.pdf",
+      "sha256": "ab7d31febc17694a2a086bc5fcf569eaca5920808b60a8fa210f56557c12d7e8",
+      "bytes": 272110,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1323.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "EDRN",
@@ -103,6 +796,28 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "EDRS",
+      "stationName": "Drensteinfurt",
+      "file": "pdf/EDRS.pdf",
+      "sha256": "7230d17ae37d09c7865bf5d122a8c27168d8ba64e32193da599b625c1d2b0516",
+      "bytes": 302012,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1341.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDSH",
+      "stationName": "Dortmund-Scharnhorst",
+      "file": "pdf/EDSH.pdf",
+      "sha256": "7f2b023f7fdd09f3d305a0bc34fdc60f60ef52f7fdf9ed547ee9537033f1a9b6",
+      "bytes": 1192530,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1324.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "EDSL",
       "stationName": "Duisburg Schlenk",
       "file": "pdf/EDSL.pdf",
@@ -112,6 +827,127 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "EDSM",
+      "stationName": "Dortmund-Somborn",
+      "file": "pdf/EDSM.pdf",
+      "sha256": "f8c5a462875d0efb63871d99e3feedb75016dc8d379e112fe1d40d7451128f97",
+      "bytes": 1367058,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/396.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDSO",
+      "stationName": "Dortmund-Sölde",
+      "file": "pdf/EDSO.pdf",
+      "sha256": "50dd14590ae01c36aab39183a2818261fdc2423c27597f5b0295fb6a3d5b3c9d",
+      "bytes": 279008,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1325.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDST",
+      "stationName": "Dortmund Stadthaus",
+      "file": "pdf/EDST.pdf",
+      "sha256": "80bba3fc968ed120ef91707a3d35eb72015a2a17c9168b0c4ab3892313487c1d",
+      "bytes": 1937862,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1292.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDTP",
+      "stationName": "Dortmund Tierpark",
+      "file": "pdf/EDTP.pdf",
+      "sha256": "58325ccf0a7fbbfff187dfd793edd90671cd02a8a9a585ac3774b871629a677b",
+      "bytes": 1511390,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1294.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDUV",
+      "stationName": "Dortmund Universität",
+      "file": "pdf/EDUV.pdf",
+      "sha256": "8a09e79ccbdd99286939d6d12155c245d421be72ac17f7c9d292bb01c55695c0",
+      "bytes": 1266598,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1295.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDVB",
+      "stationName": "Davensberg",
+      "file": "pdf/EDVB.pdf",
+      "sha256": "0bfaf2572d3e905b78ca607469b420d87230d16d9d415aa256b66227b5a55a7e",
+      "bytes": 593828,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1141.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDW",
+      "stationName": "Dortmund West",
+      "file": "pdf/EDW.pdf",
+      "sha256": "d7da1129724e1de2c97f4297667f0d38b41d42b1f53683a2ae902362e84aaf31",
+      "bytes": 2302101,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1296.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDWH",
+      "stationName": "Dortmund Signal Iduna Park",
+      "file": "pdf/EDWH.pdf",
+      "sha256": "16791505e47174359ab9c3b830af6af36167c82d60e6a1d6ff30565206018b07",
+      "bytes": 1244161,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1297.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDWI",
+      "stationName": "Dortmund-Wickede",
+      "file": "pdf/EDWI.pdf",
+      "sha256": "3057cd3e875b5406a6b9efd5f2ca29e077d651a684e21a3b1f7bbaecf21fc502",
+      "bytes": 328089,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1327.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDWK",
+      "stationName": "Dortmund-Körne West",
+      "file": "pdf/EDWK.pdf",
+      "sha256": "f50220728c242728c1cc78352de8f4b4e8dd59558c1088157cc3d86c63f1b3f6",
+      "bytes": 454784,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1313.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EDWW",
+      "stationName": "Dortmund-Wickede West",
+      "file": "pdf/EDWW.pdf",
+      "sha256": "fd9ebc023ba4453edf4f1b96fcbdeebb36a20e15452a558a82d2e0014cb3eca4",
+      "bytes": 1444884,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1328.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "EE",
@@ -136,6 +972,116 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "EEBB",
+      "stationName": "Essen-Borbeck",
+      "file": "pdf/EEBB.pdf",
+      "sha256": "63413632eed8b21de9822ed1ddbc8657d051712e9a0df7d5441b23e65a419680",
+      "bytes": 327471,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1696.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEBE",
+      "stationName": "Essen-Bergeborbeck",
+      "file": "pdf/EEBE.pdf",
+      "sha256": "4757b4acafe601bfe3527db324dd8f969637c18651c4327cd5d49ac88a0322dc",
+      "bytes": 843093,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1695.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEBS",
+      "stationName": "Essen-Borbeck Süd",
+      "file": "pdf/EEBS.pdf",
+      "sha256": "cbce9e9ff6aab155c8d3f58d303606e53d57b0bac20b88c716e98b214fef8ee5",
+      "bytes": 414735,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1697.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEDL",
+      "stationName": "Essen-Dellwig",
+      "file": "pdf/EEDL.pdf",
+      "sha256": "baa6e77f266c415cdb460b3bd9036e8795ed1fef65058e7a6e1aa5d410e5de54",
+      "bytes": 687572,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1698.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEDO",
+      "stationName": "Essen-Dellwig Ost",
+      "file": "pdf/EEDO.pdf",
+      "sha256": "330f6fcdf26aee0e067fc4732909f3c0fdf7a1ab625a8c693448b0efa2dbc422",
+      "bytes": 581884,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1699.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEDT",
+      "stationName": "Emsdetten",
+      "file": "pdf/EEDT.pdf",
+      "sha256": "aa22411f982cb1935f77d28a843fda9af4075f473015b3f7d7df0637ebecd3c3",
+      "bytes": 708321,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1590.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEFO",
+      "stationName": "Essen-Frohnhausen",
+      "file": "pdf/EEFO.pdf",
+      "sha256": "6a3130ec460f5cec4523bd26968d5cf68a7554c337085f72002ffe8c5637c9c8",
+      "bytes": 329158,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1701.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEGE",
+      "stationName": "Essen-Gerschede",
+      "file": "pdf/EEGE.pdf",
+      "sha256": "a2af853f7fd9c2db854614fe8684d7eb7016e9c6d62bc4551bad13f3161360eb",
+      "bytes": 797344,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1702.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEHH",
+      "stationName": "Essen-Holthausen",
+      "file": "pdf/EEHH.pdf",
+      "sha256": "1fd957cdc3c6c4f39f024eaa10bcb8f232423e10c7b0ac9dea96e1d6ed60c36f",
+      "bytes": 574474,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1703.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEHT",
+      "stationName": "Essen-Horst",
+      "file": "pdf/EEHT.pdf",
+      "sha256": "1e8abefbf00b42e85bd955c39a1c685045a6127fc773006deda8a406e5108047",
+      "bytes": 462765,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1704.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "EEHU",
       "stationName": "Essen-Hügel",
       "file": "pdf/EEHU.pdf",
@@ -145,6 +1091,61 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "EEIB",
+      "stationName": "Essen-Eiberg",
+      "file": "pdf/EEIB.pdf",
+      "sha256": "2d723036925b3aa337bd59913e992fb6ac03ce0493a33d7a79b971f5f3340d1b",
+      "bytes": 683551,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1700.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEKB",
+      "stationName": "Essen-Zollverein Nord",
+      "file": "pdf/EEKB.pdf",
+      "sha256": "119796679b5342b5eb11fdf153b20c312ff9a1183548347491ad5eed6d8eca3a",
+      "bytes": 401200,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1706.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEKN",
+      "stationName": "Essen-Kray Nord",
+      "file": "pdf/EEKN.pdf",
+      "sha256": "defa731cdcbae04e3c68c0864aa9abc06c5d94b43bb7d8032e407b9ddfb8899d",
+      "bytes": 955039,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1707.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEKS",
+      "stationName": "Essen-Kray Süd",
+      "file": "pdf/EEKS.pdf",
+      "sha256": "9e0ba34ffb1b5e0a5e9979a7c1272147c4b58a514d2c4520914609b2fce13434",
+      "bytes": 969171,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1708.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEKU",
+      "stationName": "Essen-Kupferdreh",
+      "file": "pdf/EEKU.pdf",
+      "sha256": "05a27466a9965e384ac4c1463fd0611e8a170fa3850f08f72af26b8e59dcbb7d",
+      "bytes": 849903,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1709.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "EENW",
@@ -158,6 +1159,94 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "EEPE",
+      "stationName": "Epe (Westf)",
+      "file": "pdf/EEPE.pdf",
+      "sha256": "9b191e66a6ff932f9502cda392a67df4c35f5b851da23f38284123c94dec075c",
+      "bytes": 792262,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1610.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EERI",
+      "stationName": "Ehringhausen (Kr Lippstadt)",
+      "file": "pdf/EERI.pdf",
+      "sha256": "1ff9cfd93fea0f0651dbd9ed2691145bc9801278124293fb1d6cc4cfce68acc7",
+      "bytes": 558731,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1491.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EESA",
+      "stationName": "Essen Stadtwald",
+      "file": "pdf/EESA.pdf",
+      "sha256": "314cfd3d10b1e8fdafdbc1eb6af6bbfe07deed66f3ddb6e1eb47adcffd0659e1",
+      "bytes": 371124,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1691.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EESD",
+      "stationName": "Essen Süd",
+      "file": "pdf/EESD.pdf",
+      "sha256": "1645aa949dc0edd6e0a8fdcf768753a381c7feb86c38c9be549a1192b499dd3a",
+      "bytes": 1765434,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1692.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EESO",
+      "stationName": "Essen-Steele Ost",
+      "file": "pdf/EESO.pdf",
+      "sha256": "3144ecac3e150f8237b4e6fc08d2c17ccdb2717bfd637c0e34e6f5a17401712d",
+      "bytes": 385998,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1711.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEUE",
+      "stationName": "Essen-Überruhr",
+      "file": "pdf/EEUE.pdf",
+      "sha256": "93cf776cf48e9a330fd553d20c23c9d7d60feb66f3ce605f1d7fe7dd54c3a872",
+      "bytes": 334523,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1712.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EEWD",
+      "stationName": "Essen-Werden",
+      "file": "pdf/EEWD.pdf",
+      "sha256": "9d6c857f4006b78c4075719c343603b2b92c0dbbf146534373285508c00b0444",
+      "bytes": 324821,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1713.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EFOE",
+      "stationName": "Fröndenberg",
+      "file": "pdf/EFOE.pdf",
+      "sha256": "11ba7ebd5ba65546847f10a725a4816f499c9626a243812c7ebecdc7d8060ef3",
+      "bytes": 487719,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1969.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "EG",
       "stationName": "Gelsenkirchen Hbf",
       "file": "pdf/EG.pdf",
@@ -169,6 +1258,39 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "EGBN",
+      "stationName": "Gelsenkirchen-Buer Nord",
+      "file": "pdf/EGBN.pdf",
+      "sha256": "f4e59e44bd6514b2ab71baa8c0a37586c7b66c78b76b69f3cec15ae76af8e172",
+      "bytes": 274375,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2054.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EGBO",
+      "stationName": "Gladbeck Ost",
+      "file": "pdf/EGBO.pdf",
+      "sha256": "a285b423fc281aeabaeb1a5da3ce567047cda9cb43df6ff4ea2d3ab44d28e660",
+      "bytes": 839669,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2132.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EGBS",
+      "stationName": "Gelsenkirchen-Buer Süd",
+      "file": "pdf/EGBS.pdf",
+      "sha256": "5e549cb0ae386e6acf81d3ccbd45843ab55f17d5a6007306a91bab4cfbda8d49",
+      "bytes": 647570,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2055.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "EGBW",
       "stationName": "Gladbeck West",
       "file": "pdf/EGBW.pdf",
@@ -178,6 +1300,138 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "EGHS",
+      "stationName": "Gelsenkirchen-Hassel",
+      "file": "pdf/EGHS.pdf",
+      "sha256": "68d4d1ee02ff85838e1ec1b809117b8c5d753872978492ba63b8ac3440991e19",
+      "bytes": 493697,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2056.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EGK",
+      "stationName": "Geseke",
+      "file": "pdf/EGK.pdf",
+      "sha256": "eb931d383e60486dc0ebead7aa25d72bfd46eb79b5853982c209db86f1c90bfa",
+      "bytes": 496151,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2109.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EGRN",
+      "stationName": "Gronau (Westf)",
+      "file": "pdf/EGRN.pdf",
+      "sha256": "26c29ec6e5eee0a86392ebe10000928ca5627c0205238379c3cb94de2e23e2bd",
+      "bytes": 302905,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2288.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EGRO",
+      "stationName": "Gelsenkirchen-Rotthausen",
+      "file": "pdf/EGRO.pdf",
+      "sha256": "f0e8f4d663531cc086f8cfe638e8d209fa772468e15fbb9860bc6e4e21d5a0aa",
+      "bytes": 283989,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2057.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EGVA",
+      "stationName": "Gevelsberg-Knapp",
+      "file": "pdf/EGVA.pdf",
+      "sha256": "d3f5d06bacd6fd94b15d18037871fe2494b3f4c3591e0b0c697d101d41016d5f",
+      "bytes": 1228308,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2116.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EGVH",
+      "stationName": "Gevelsberg Hbf",
+      "file": "pdf/EGVH.pdf",
+      "sha256": "257efb8be23a3aa253202a912f2c56d96beb0c33a1392dea7e55bd51e5845820",
+      "bytes": 886567,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2113.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EGZO",
+      "stationName": "Gelsenkirchen Zoo",
+      "file": "pdf/EGZO.pdf",
+      "sha256": "51874b7c78f6638b96a682a2e2a059d909fecb96070ffd2fb37d27b51461c3c5",
+      "bytes": 956943,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2053.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EHAT",
+      "stationName": "Hattingen (Ruhr)",
+      "file": "pdf/EHAT.pdf",
+      "sha256": "4f445561c1c5b9bd98ecf47f7ec2e4f378c841ab1c949f5afab84b1084d0b2b4",
+      "bytes": 514478,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2592.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EHBK",
+      "stationName": "Havixbeck",
+      "file": "pdf/EHBK.pdf",
+      "sha256": "18a24cf979afe7e163771194c5813ecd8a1f6a6a7e204a7503cce873e95169ac",
+      "bytes": 407941,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2610.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EHBO",
+      "stationName": "Herne-Börnig",
+      "file": "pdf/EHBO.pdf",
+      "sha256": "961374707a7af30e331aa2d655568a597d46509c237e853dfa8b0019ee4065f7",
+      "bytes": 830976,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2723.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EHDT",
+      "stationName": "Hervest-Dorsten",
+      "file": "pdf/EHDT.pdf",
+      "sha256": "4b894456e5560e1cc0cc5990573cece07e254a29001deb67a9571fca522637ea",
+      "bytes": 659505,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2736.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EHE",
+      "stationName": "Hamm-Heessen",
+      "file": "pdf/EHE.pdf",
+      "sha256": "5a2398a391bec3978c1241f5e8a9318b44c957ba01a6f1ef700284139ea3126c",
+      "bytes": 697783,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2621.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "EHER",
@@ -202,6 +1456,17 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "EHLT",
+      "stationName": "Haltern am See",
+      "file": "pdf/EHLT.pdf",
+      "sha256": "ee248ed8a9da5ba0641a2aa31f5e3aae76575d16af43d5ecd5244f7ec681e182",
+      "bytes": 1425626,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2510.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "EHM",
       "stationName": "Hamm (Westf) Pbf",
       "file": "pdf/EHM.pdf",
@@ -211,6 +1476,39 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "EHMD",
+      "stationName": "Hemmerde",
+      "file": "pdf/EHMD.pdf",
+      "sha256": "aa46872149bedfd7e3cb99f5123ab6563e617403d0ad3d7b8924e4c0c2cdc0d2",
+      "bytes": 425678,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2681.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "EHTM",
+      "stationName": "Hattingen (Ruhr) Mitte",
+      "file": "pdf/EHTM.pdf",
+      "sha256": "9b033d628adea14b52c113058f62ae751e4c0c0a33f95d72ae5d812181f6b8c4",
+      "bytes": 579593,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2593.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "ELDD",
+      "stationName": "Dortmund-Lütgendortmund",
+      "file": "pdf/ELDD.pdf",
+      "sha256": "30a505022a7742babf5370665f657afcc1281fbd019698cee1bd9675409d18ec",
+      "bytes": 819337,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1235.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "EMLR",
@@ -268,6 +1566,28 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "EZK",
+      "stationName": "Gladbeck-Zweckel",
+      "file": "pdf/EZK.pdf",
+      "sha256": "2aac51f22cb5cad63fd8cdb0a9a3437fc60892372523bff54693f7d26a021638",
+      "bytes": 266528,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2134.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "HESH",
+      "stationName": "Ibbenbüren-Esch",
+      "file": "pdf/HESH.pdf",
+      "sha256": "7d2c3030e8c5863a01a3b0dcbf4df704ba2e527bbc7e9ad40639a96ebe4296ef",
+      "bytes": 983605,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1670.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "HM",
       "stationName": "Minden (Westf)",
       "file": "pdf/HM.pdf",
@@ -301,6 +1621,72 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "KALI",
+      "stationName": "Alfter-Impekoven",
+      "file": "pdf/KALI.pdf",
+      "sha256": "f40b0074b185eae2ffdfeda79d7474a97ce82f0cb9a5b3e65f5db38470e819b0",
+      "bytes": 1874559,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2392.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KALK",
+      "stationName": "Aldekerk",
+      "file": "pdf/KALK.pdf",
+      "sha256": "9a6327ab7f9f4c5f5bc1fe769b7a71e2aef62bfd2a673248b583f05e8c61a744",
+      "bytes": 1216856,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/51.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KALP",
+      "stationName": "Alpen",
+      "file": "pdf/KALP.pdf",
+      "sha256": "6567361c7455087b3b434b4e4d4aef6b60d04395fc1154e65d4690198940a7c2",
+      "bytes": 579871,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/62.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KANM",
+      "stationName": "Angermund",
+      "file": "pdf/KANM.pdf",
+      "sha256": "1bbd0b275e2ae1349603212fb6c5246154e77ceccefb2d6cfc9f5d5e07a5bc01",
+      "bytes": 342584,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/147.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KANR",
+      "stationName": "Anrath",
+      "file": "pdf/KANR.pdf",
+      "sha256": "2d466eed672127ad10792e3a1c2a3a2fbbcaf0316e28fde5a2d98f597a94f6d8",
+      "bytes": 1118808,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/160.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KARE",
+      "stationName": "Aachen-Rothe Erde",
+      "file": "pdf/KARE.pdf",
+      "sha256": "f6edbc914f3fca9469278faa9205e5fbbf6ce1aec265e634b54b7c0d5c4b0bbd",
+      "bytes": 316550,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "KARS",
       "stationName": "Arsbeck",
       "file": "pdf/KARS.pdf",
@@ -310,6 +1696,28 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "KAU",
+      "stationName": "Au (Sieg)",
+      "file": "pdf/KAU.pdf",
+      "sha256": "f0d204eaf967fbc3aa2010e7b25b72b9cb65de962e47ef0230a3f9bc4a8d0044",
+      "bytes": 326336,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/204.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KAW",
+      "stationName": "Aachen West",
+      "file": "pdf/KAW.pdf",
+      "sha256": "1481fda1ed7b751cdc568f8473e47ab6c08ede33d67a945b03ececbe99c82029",
+      "bytes": 386631,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/3.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "KB",
@@ -323,6 +1731,72 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "KBB",
+      "stationName": "Bonn-Beuel",
+      "file": "pdf/KBB.pdf",
+      "sha256": "e8bbee11695e832c4abe3b143864f1959ca5f506fc45e15c13dbd9226c09e766",
+      "bytes": 1093846,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/769.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBBG",
+      "stationName": "Bonn-Bad Godesberg",
+      "file": "pdf/KBBG.pdf",
+      "sha256": "028027ac8d52f3bac542ea8ed9accc11162c5564fcbaba4020152d453b0b1011",
+      "bytes": 1631475,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/768.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBD",
+      "stationName": "Bonn-Duisdorf",
+      "file": "pdf/KBD.pdf",
+      "sha256": "c0074222faac8f7a81533a1bd2213241c852284aa937e5f9894a02c57e7ee644",
+      "bytes": 1055390,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/770.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBE",
+      "stationName": "Bedburg (Erft)",
+      "file": "pdf/KBE.pdf",
+      "sha256": "a2671a04f021f29c40b9739abedee34f7c5d2dc2212c1bb9849fff4eb7566286",
+      "bytes": 284238,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/447.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBEC",
+      "stationName": "Bonn-Endenich Nord",
+      "file": "pdf/KBEC.pdf",
+      "sha256": "3bdbe79a002782a4750be10cc855afa316dad68e7a6aabb0e646c9a37672477c",
+      "bytes": 746336,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2013.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBEE",
+      "stationName": "Bergheim (Erft)",
+      "file": "pdf/KBEE.pdf",
+      "sha256": "73715efdf53d8807b076cce2383105d9e05ccaf37905134e08b4bed1a61af03a",
+      "bytes": 771850,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/507.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "KBGG",
       "stationName": "Bergisch Gladbach",
       "file": "pdf/KBGG.pdf",
@@ -332,6 +1806,116 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "KBLB",
+      "stationName": "Blankenberg (Sieg)",
+      "file": "pdf/KBLB.pdf",
+      "sha256": "3c81f89c322ceca95dd8c0524e5493bcf8b33ef33cad87b5a5166142093754b4",
+      "bytes": 1073170,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/684.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBLH",
+      "stationName": "Blankenheim (Wald)",
+      "file": "pdf/KBLH.pdf",
+      "sha256": "64f3ca07f4143561b115c0aa22de41272f909db7cfb4bf0752cf8496a3dbda0f",
+      "bytes": 918839,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/690.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBM",
+      "stationName": "Bonn-Mehlem",
+      "file": "pdf/KBM.pdf",
+      "sha256": "cf33d2c5cf4795cc9f8b44e6c326e2923da9ae81069133e2e99a9bcbd6fee138",
+      "bytes": 1061202,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/771.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBO",
+      "stationName": "Bonn-Oberkassel",
+      "file": "pdf/KBO.pdf",
+      "sha256": "0b2aab540d9f9160a82b19a6f5a6d66afadc56e844bd335820bcb4d0f25a9d37",
+      "bytes": 2386961,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/772.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBOI",
+      "stationName": "Boisheim",
+      "file": "pdf/KBOI.pdf",
+      "sha256": "e5c090918c1fb29f107783dfa5ead5889e870ce1b8dba34bef0f7b7b6d36adad",
+      "bytes": 304207,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/757.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBP",
+      "stationName": "Köln Airport-Businesspark",
+      "file": "pdf/KBP.pdf",
+      "sha256": "6422eeff034ffa8aa5d4ff42d5e2c8ac1bad6b7393bcd2991643cc209c1b0641",
+      "bytes": 367508,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2070.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBR",
+      "stationName": "Brühl",
+      "file": "pdf/KBR.pdf",
+      "sha256": "973e87ea55ab2a09f8a0945d4d227c445265d7270ff78e08deed44b7a3f761dc",
+      "bytes": 1189163,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/917.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBRC",
+      "stationName": "Brachelen",
+      "file": "pdf/KBRC.pdf",
+      "sha256": "5da5b4f6e378d1be194e4998915a127e77b7c28c2369f838c1e9af127e53badb",
+      "bytes": 1686793,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/810.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBUH",
+      "stationName": "Buir",
+      "file": "pdf/KBUH.pdf",
+      "sha256": "223673aedb0a4446c8b1f6813061ca1e6df6c17579ad9b2ab0beca20d3e36a9c",
+      "bytes": 352462,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/962.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KBUT",
+      "stationName": "Büttgen",
+      "file": "pdf/KBUT.pdf",
+      "sha256": "0a6a7b212badcb4609a6f66fc20d73910f8211885400c6ca472c9219d304e2b5",
+      "bytes": 1184008,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1011.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "KD",
@@ -345,6 +1929,39 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "KDAM",
+      "stationName": "Dahlem (Eifel)",
+      "file": "pdf/KDAM.pdf",
+      "sha256": "80d3b66a4887532f159dc17a70f96a3af5777fc7e07db2f5aaf274d8927f65d0",
+      "bytes": 1584373,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1105.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDAT",
+      "stationName": "Dattenfeld (Sieg)",
+      "file": "pdf/KDAT.pdf",
+      "sha256": "2c0c32962c497d8270f751f5aa9ff346588b720888c66f95de97690cc6869d2d",
+      "bytes": 351184,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1135.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDBE",
+      "stationName": "Düsseldorf-Benrath",
+      "file": "pdf/KDBE.pdf",
+      "sha256": "fb4f58b00d34866202996844499dbf66868684e59b78410c890f1d85516b9bc2",
+      "bytes": 417611,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1399.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "KDBI",
       "stationName": "Düsseldorf-Bilk",
       "file": "pdf/KDBI.pdf",
@@ -354,6 +1971,50 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "KDD",
+      "stationName": "Düsseldorf-Derendorf",
+      "file": "pdf/KDD.pdf",
+      "sha256": "e42203b57795387aa4120af2c48961c2ecd31c1a3f8ad895d06b3d2e7468fa00",
+      "bytes": 1314791,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1406.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDE",
+      "stationName": "Düsseldorf-Eller",
+      "file": "pdf/KDE.pdf",
+      "sha256": "cfc2d6124613ff716e30132021bd4833caf49998ebe21f8cf25f5266e16db4a5",
+      "bytes": 1464508,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1407.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDEK",
+      "stationName": "Weilerswist-Derkum",
+      "file": "pdf/KDEK.pdf",
+      "sha256": "71ace6f561caabd64a44c93568f0c174570c7f8726c3c0e0b0b30072fee36d6f",
+      "bytes": 288259,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1168.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDEM",
+      "stationName": "Düsseldorf-Eller Mitte",
+      "file": "pdf/KDEM.pdf",
+      "sha256": "3db57fdf46ab60e27e5b64f01554d5e1f43951462502fd5adeff6c7f4aa83fd4",
+      "bytes": 1147208,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1408.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "KDES",
@@ -378,6 +2039,83 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "KDFL",
+      "stationName": "Düsseldorf-Flingern",
+      "file": "pdf/KDFL.pdf",
+      "sha256": "5d645c77866ae802c0d406c361b62fb440f4396ba8293197a6007a3e30afbc53",
+      "bytes": 868333,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1410.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDFS",
+      "stationName": "Düsseldorf-Friedrichstadt",
+      "file": "pdf/KDFS.pdf",
+      "sha256": "ac69b48affdf0755e0e05c5ccf729a3dd18211f588074212a4169f523cb6b705",
+      "bytes": 1346389,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1411.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDGA",
+      "stationName": "Düsseldorf-Garath",
+      "file": "pdf/KDGA.pdf",
+      "sha256": "b9317cbc4695db308d1af24bda917b7ab016d14656a15feb16c815fa9c598d19",
+      "bytes": 344089,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1412.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDGE",
+      "stationName": "Düsseldorf-Gerresheim",
+      "file": "pdf/KDGE.pdf",
+      "sha256": "0b33db0329f1703999da0ec2c434abf3331208dc2ce33ebd82a7688af7182c41",
+      "bytes": 1250529,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1413.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDHA",
+      "stationName": "Düsseldorf-Hamm",
+      "file": "pdf/KDHA.pdf",
+      "sha256": "1796006d12620099be8128dd53bcbd1eca5fefe176a5c366d500a892d7d5e7a4",
+      "bytes": 339727,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1414.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDHL",
+      "stationName": "Düsseldorf-Hellerhof",
+      "file": "pdf/KDHL.pdf",
+      "sha256": "8beb568a8f71696c0292a787320d45311f61fb8779e7623fc9bc222426a9c0c0",
+      "bytes": 334567,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1415.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDI",
+      "stationName": "Gummersbach-Dieringhausen",
+      "file": "pdf/KDI.pdf",
+      "sha256": "dc0ffc1f6cd04ec6b6fa1eb0cb68cd913c6720c8132364a35d02d26eeaf845f3",
+      "bytes": 306899,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1202.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "KDN",
       "stationName": "Düren",
       "file": "pdf/KDN.pdf",
@@ -389,6 +2127,94 @@
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
     },
     {
+      "stationCode": "KDO",
+      "stationName": "Dormagen",
+      "file": "pdf/KDO.pdf",
+      "sha256": "b2bfceffc1939dbe5ca1783178b91855fbf5d52771f5ec4036fafcced63a43ac",
+      "bytes": 412240,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1274.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDOB",
+      "stationName": "Düsseldorf-Oberbilk",
+      "file": "pdf/KDOB.pdf",
+      "sha256": "e036300960c20df7b5b1c12891eb89c1772b1565f4ae1a7180f17d0cfb4bdf85",
+      "bytes": 345067,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1416.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDR",
+      "stationName": "Düsseldorf-Rath",
+      "file": "pdf/KDR.pdf",
+      "sha256": "c5e762445cbe830af9308fe51d25da1563218833eb6a1f8f62aef94bc05dfdb6",
+      "bytes": 1499449,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1417.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDRM",
+      "stationName": "Düsseldorf-Rath Mitte",
+      "file": "pdf/KDRM.pdf",
+      "sha256": "850e0c359afffe42b3bc8542d9d56222f911c6da73ed4ba836efd7db23eec73c",
+      "bytes": 1547024,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1418.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDU",
+      "stationName": "Düsseldorf-Unterrath",
+      "file": "pdf/KDU.pdf",
+      "sha256": "f0d9c89f634adb3eae10c2230707adab0bb88330f5ccae7cb9ffd57f9f0f95a3",
+      "bytes": 675976,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1420.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDUK",
+      "stationName": "Duckterath",
+      "file": "pdf/KDUK.pdf",
+      "sha256": "3e08bfe0940e433b200ac397101b6031e2b52ffe56b6b1caf33a080955da459d",
+      "bytes": 1009258,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1371.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDV",
+      "stationName": "Düsseldorf Volksgarten",
+      "file": "pdf/KDV.pdf",
+      "sha256": "f74c84c91f4894247469547c49973e82a24855120ef59fc3c41546c245e48b14",
+      "bytes": 1481792,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1402.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KDVS",
+      "stationName": "Düsseldorf Völklinger Straße",
+      "file": "pdf/KDVS.pdf",
+      "sha256": "6002ee31074d8fa8ecd08fe8a270db76437cd11b280e440da2312aeb131bba3f",
+      "bytes": 931688,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1421.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
       "stationCode": "KDW",
       "stationName": "Düsseldorf Wehrhahn",
       "file": "pdf/KDW.pdf",
@@ -398,6 +2224,292 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "KDZ",
+      "stationName": "Düsseldorf Zoo",
+      "file": "pdf/KDZ.pdf",
+      "sha256": "59f9f2ece5178636c85b072fc7f21fe51f39ac5080d52f73f6328d02f570f361",
+      "bytes": 1058718,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1404.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KE",
+      "stationName": "Eschweiler Hbf",
+      "file": "pdf/KE.pdf",
+      "sha256": "dc8c574445d1d0cf98eab8c9ac30c8bfd30abdfd87cfc7c1fa6804d2fba1df01",
+      "bytes": 1113633,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1680.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KEIL",
+      "stationName": "Eilendorf",
+      "file": "pdf/KEIL.pdf",
+      "sha256": "af7a0426c2ab8da559f9a949c3f4e2bc2854abf926048a1b41106da3f9a33d42",
+      "bytes": 1307259,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1515.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KEIT",
+      "stationName": "Eitorf",
+      "file": "pdf/KEIT.pdf",
+      "sha256": "c50da761f86560158c94863f50ec7735110b352423b7e62e784cac627e02b14e",
+      "bytes": 363750,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1541.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KENL",
+      "stationName": "Engelskirchen",
+      "file": "pdf/KENL.pdf",
+      "sha256": "fdceba5203afe7314127dd69e8205bcdc4e5acd4ee8b98c80e1b05c8fa4ccbab",
+      "bytes": 345316,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1597.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KER",
+      "stationName": "Erkrath",
+      "file": "pdf/KER.pdf",
+      "sha256": "a91a37e59c4e2dce62d1193ae650bc62d3ab597c7735c7d0530470f43732939c",
+      "bytes": 439979,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1646.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KERZ",
+      "stationName": "Erkelenz",
+      "file": "pdf/KERZ.pdf",
+      "sha256": "db706322370ba45091ea1d38375345ab9bf96ca33a077ce46c1f748d13f7b244",
+      "bytes": 1047573,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1643.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KEST",
+      "stationName": "Erftstadt",
+      "file": "pdf/KEST.pdf",
+      "sha256": "b013e39e4b2618c1c352f8a71ba39949eb336072fddd7e6486becfd6afd14a8a",
+      "bytes": 1285393,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1631.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KEU",
+      "stationName": "Euskirchen",
+      "file": "pdf/KEU.pdf",
+      "sha256": "d30a1facac7357160920738e3870f700daedd9a7c730282cebee28b348c88a36",
+      "bytes": 2194174,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1734.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KFKO",
+      "stationName": "Frechen-Königsdorf",
+      "file": "pdf/KFKO.pdf",
+      "sha256": "a9438e87418aa73f14d6e0a183146b33e187210f75d1294986b5eb62daaae008",
+      "bytes": 1230489,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2306.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KFRI",
+      "stationName": "Frimmersdorf",
+      "file": "pdf/KFRI.pdf",
+      "sha256": "39258c7da84dcd3cfb093edd877340cda9e8a549fe8f040c70b9317c6e2df6d6",
+      "bytes": 925343,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1963.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KFWH",
+      "stationName": "Friedrich-Wilhelms-Hütte",
+      "file": "pdf/KFWH.pdf",
+      "sha256": "a66b8868a3c21cf056e6d37dc0b9952c2c9c2bd57e0060bc5b43cdf804e28e5f",
+      "bytes": 2257222,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/1939.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KGBU",
+      "stationName": "Großbüllesheim",
+      "file": "pdf/KGBU.pdf",
+      "sha256": "ace8d1ec5a0f0227d8738a5022b5fc78d8b6947e92c256d5b2b9e0b9040796bd",
+      "bytes": 967521,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2329.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KGEK",
+      "stationName": "Geilenkirchen",
+      "file": "pdf/KGEK.pdf",
+      "sha256": "128ece54492d1ebf5f9b8e78311074afc8a385d871b964b678e256c64266d67f",
+      "bytes": 852745,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2037.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KGL",
+      "stationName": "Glesch",
+      "file": "pdf/KGL.pdf",
+      "sha256": "b52733b8ef573d2df2655717a645f52db5520730d57aafbe3db901461ddd33a5",
+      "bytes": 820279,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2145.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KGRB",
+      "stationName": "Grevenbroich",
+      "file": "pdf/KGRB.pdf",
+      "sha256": "178d62c0a6f8f767072eae9f5e329b60a179d821c2a744684e8cfb91090eec9f",
+      "bytes": 1368481,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2263.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KGU",
+      "stationName": "Gummersbach",
+      "file": "pdf/KGU.pdf",
+      "sha256": "851b1f0f93d12fb29ac98cab09d3e50942bb9ea0ce1c1d2c431cb37192967c5c",
+      "bytes": 983497,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2410.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KGUI",
+      "stationName": "Haan-Gruiten",
+      "file": "pdf/KGUI.pdf",
+      "sha256": "cd04732a6722b61b588bab9a810d05aeba6bc8abd411020e600a2afdb8ac8567",
+      "bytes": 965137,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2381.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KGUS",
+      "stationName": "Gustorf",
+      "file": "pdf/KGUS.pdf",
+      "sha256": "a31cef844698ec42df4297c64802f66d8e1789c4e7783e68a8c658fea38ecbbd",
+      "bytes": 297643,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2431.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KGVK",
+      "stationName": "Gevelsberg-Kipp",
+      "file": "pdf/KGVK.pdf",
+      "sha256": "c4869e6d5ad2332260e7759c67d6f5382499fa62e8e0fed9f2d27f1cfa17a150",
+      "bytes": 394656,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2115.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KGVW",
+      "stationName": "Gevelsberg West",
+      "file": "pdf/KGVW.pdf",
+      "sha256": "632af0a28d26ad43e1c7199b460e72ed263d8accfb98cf97f3388f56fc223b85",
+      "bytes": 773311,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2114.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KHAN",
+      "stationName": "Haan",
+      "file": "pdf/KHAN.pdf",
+      "sha256": "4977683493782f8ad312d8bbca3b3989f483af4f032ab0f84b44643989c80e0a",
+      "bytes": 1342645,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2442.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KHBD",
+      "stationName": "Bad Honnef (Rhein)",
+      "file": "pdf/KHBD.pdf",
+      "sha256": "b4cf4e0e0fe5e558a2c0aea385b8335897110e6e69756e0518fd13bdcd0afa2d",
+      "bytes": 2320423,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/285.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KHEN",
+      "stationName": "Hennef (Sieg)",
+      "file": "pdf/KHEN.pdf",
+      "sha256": "29d5889d2fb4fbfa46af88c26e9bcb49227206b074d37022307b3923bbe6d14d",
+      "bytes": 1458353,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2688.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KHER",
+      "stationName": "Herrath",
+      "file": "pdf/KHER.pdf",
+      "sha256": "e153832d863971d18b9f55a84660c6bf34324efc1d1a74e985e503060ff48341",
+      "bytes": 507323,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2725.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
+    },
+    {
+      "stationCode": "KHES",
+      "stationName": "Hennef Im Siegbogen",
+      "file": "pdf/KHES.pdf",
+      "sha256": "68705addd1cd6535b44a5fb6fe7424a2c6d2a2ce64f8d194431d493350e76372",
+      "bytes": 2113693,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2166.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "KK",
@@ -431,6 +2543,17 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "KMUE",
+      "stationName": "Bad Münstereifel",
+      "file": "pdf/KMUE.pdf",
+      "sha256": "5cdf7863fd475545467ecf269ce8f6491158e2f0771f3e2b72b052dd79132a94",
+      "bytes": 353840,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/308.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "KN",
@@ -475,6 +2598,17 @@
       "rightsBasis": "written_permission",
       "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
       "rightsVerifiedAt": "2026-07-20T04:01:43Z"
+    },
+    {
+      "stationCode": "KSTP",
+      "stationName": "Köln Steinstraße",
+      "file": "pdf/KSTP.pdf",
+      "sha256": "244a038ee2899ad464f03b235f2eac9a14657c7d14a3ba4c91927ecf832f3ca7",
+      "bytes": 1668904,
+      "sourceUrl": "https://www.bahnhof.de/downloads/replacement-service-maps/2090.pdf",
+      "rightsBasis": "written_permission",
+      "rightsReference": "Written permission held by project owner for public distribution in the SEV Driver Assistant catalog.",
+      "rightsVerifiedAt": "2026-07-20T04:40:11Z"
     },
     {
       "stationCode": "KSWW",

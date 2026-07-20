@@ -4,9 +4,9 @@ Dieses **öffentliche Datenrepository** ist der kontrollierte Veröffentlichungs
 
 ## Aktueller Stand
 
-Der Katalog enthält **47 freigegebene SEV-PDFs**. Die jeweilige Rechtebasis ist als `written_permission` im Manifest dokumentiert. Der vollständige schriftliche Nachweis bleibt beim Projektinhaber und wird nicht in dieses öffentliche Repository übernommen.
+Der Katalog enthält **241 freigegebene SEV-PDFs** in Katalogversion **`1.1.0`**. Die jeweilige Rechtebasis ist als `written_permission` im Manifest dokumentiert. Der vollständige schriftliche Nachweis bleibt beim Projektinhaber und wird nicht in dieses öffentliche Repository übernommen.
 
-Die Dateien stammen aus den im Manifest angegebenen Originalquellen. Beim Import wurden die aktuelle Datei, Größe, `%PDF-`-Signatur und SHA-256 geprüft. Vier Originaldateien wurden gegenüber dem historischen Prüfsnapshot aktualisiert; sie wurden zusätzlich anhand von PDF-Titel und Stationsbezug geprüft.
+Die Dateien stammen aus den im Manifest angegebenen Originalquellen. Beim Import wurden die aktuelle Datei, Größe, `%PDF-`-Signatur und SHA-256 geprüft. Die 194 in Version `1.1.0` ergänzten NRW-Pläne wurden zusätzlich gegen den im aktuellen PDF extrahierten Stationsnamen, einen eindeutigen RIL100-Code sowie ein dokumentiertes NRW-Bahnhofsmanagement geprüft. Ein Plan mit abweichender aktueller Identität wurde bewusst nicht aufgenommen.
 
 ## Aufnahme eines Plans
 
