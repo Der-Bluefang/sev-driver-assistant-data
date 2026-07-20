@@ -1,10 +1,12 @@
 # SEV Driver Assistant – Plan-Daten
 
-Dieses **öffentliche Datenrepository** ist der kontrollierte Veröffentlichungsweg für SEV-Lagepläne, die ausdrücklich zur Weiterveröffentlichung freigegeben sind.
+Dieses **öffentliche Datenrepository** ist der kontrollierte Veröffentlichungsweg für SEV-Lagepläne, deren Weiterveröffentlichung für den SEV Driver Assistant ausdrücklich freigegeben wurde.
 
 ## Aktueller Stand
 
-Der Katalog ist absichtlich leer. Die bisher von `bahnhof.de` referenzierten DB-PDFs werden hier **nicht** gespiegelt: DB InfraGO weist in den Nutzungsbedingungen darauf hin, dass jede andere Nutzung ihrer Webinhalte der vorherigen schriftlichen Zustimmung bedarf. Eine öffentliche Download-URL ist keine Spiegel- oder Verteilfreigabe.
+Der Katalog enthält **47 freigegebene SEV-PDFs**. Die jeweilige Rechtebasis ist als `written_permission` im Manifest dokumentiert. Der vollständige schriftliche Nachweis bleibt beim Projektinhaber und wird nicht in dieses öffentliche Repository übernommen.
+
+Die Dateien stammen aus den im Manifest angegebenen Originalquellen. Beim Import wurden die aktuelle Datei, Größe, `%PDF-`-Signatur und SHA-256 geprüft. Vier Originaldateien wurden gegenüber dem historischen Prüfsnapshot aktualisiert; sie wurden zusätzlich anhand von PDF-Titel und Stationsbezug geprüft.
 
 ## Aufnahme eines Plans
 
@@ -15,7 +17,7 @@ Ein PDF darf erst unter `pdf/` aufgenommen werden, wenn für genau diese Datei e
 
 Jeder Eintrag in `catalog/manifest.json` dokumentiert Datei, SHA-256, Bytegröße, Quelle und Rechtebasis. Die CI akzeptiert nur PDF-Dateien, die exakt zu einem Manifest-Eintrag passen und deren Integrität erfüllen.
 
-Die Android-App verwendet später ausschließlich freigegebene Dateien aus einem versionierten GitHub-Release dieses Repositories. Sie enthält weder GitHub-Token noch Zugangsdaten. Bereits geprüfte Downloads bleiben lokal offline verfügbar.
+Die Android-App verwendet ausschließlich freigegebene Dateien aus diesem versionierten Repository. Sie enthält weder GitHub-Token noch Zugangsdaten. Bereits geprüfte Downloads bleiben lokal offline verfügbar.
 
 ## Struktur
 
